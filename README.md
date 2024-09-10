@@ -100,7 +100,7 @@ The pretrained weights of SAM can be found in [Segment Anything](https://github.
 
 ### Download Model Weights
 
-The pretrained models can be found in [OneDrive](https://1drv.ms/f/s!ApI0vb6wPqmtku1kOKbVTJkwa6jG_Q?e=vaG9Gj) and [TsinghuaCloud](https://cloud.tsinghua.edu.cn/d/a18ab47d62f94a2894a1/).
+The pretrained models can be found in [OneDrive](https://1drv.ms/f/s!ApI0vb6wPqmtku1kOKbVTJkwa6jG_Q?e=vaG9Gj) and [TsinghuaCloud](https://cloud.tsinghua.edu.cn/d/1423fb16fdb9445e8155/).
 
 ### Evaluation
 
