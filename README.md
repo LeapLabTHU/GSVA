@@ -2,7 +2,6 @@
 
 This repository contains the code for the paper GSVA: Generalized Segmentation via Multimodal Large Language Models (CVPR2024). [[arXiv](https://arxiv.org/abs/2312.10103)][[video](https://youtu.be/Ruh5MovwMj4?feature=shared)][[poster](https://cloud.tsinghua.edu.cn/f/bf8504068ff142e190c5/)][[CVPR page](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_GSVA_Generalized_Segmentation_via_Multimodal_Large_Language_Models_CVPR_2024_paper.html)]
 
-## **More model weights are now in conversion and uploading and will be released in from three days to one week due to their huge sizes.**
 
 ## Introduction
 
@@ -162,11 +161,11 @@ to convert the ZeRO weight shards to a bin file to store the trained model weigh
 
 If you want to start from a pretrained GSVA model for further finetuning, please consider set the `weight` argument to `<path-to-your-model>.bin`.
 
+
 ## Acknowledgements
 
 This code is developed on the top of [LISA](https://github.com/dvlab-research/LISA), [LLaVA](https://github.com/haotian-liu/LLaVA), [SAM](https://github.com/facebookresearch/segment-anything), and [ReLA](https://github.com/henghuiding/ReLA), we thank to their efficient and neat codebase. We also thank Dr. [Yuan Yao](https://yaoyuanthu.github.io/) and
-Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) for their insightful and valuable comments on this research project. We also appreciate their
-generous support of computational resources.
+Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/) for their insightful and valuable comments on this research project. We also appreciate their generous support of computational resources.
 
 ## Citation
 
